@@ -1,4 +1,4 @@
-### Hi there, I'm Taine 👋
+## Hi there, I'm Taine 👋
 
 
 ## I'm a Developer, Photographer and recent graduate of Enspiral Dev Academy!
@@ -14,7 +14,7 @@
 [<img align="left" alt="taine-rasmussen | Instagram" width="42px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
 
 <br />
-
+<br />
 
 ### GitHub activity & stats:
 
