@@ -28,6 +28,12 @@
 </details>
 
 
+<br />
+<br />
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=taine-rasmussen)]
+
+
 
 [linkedin]: https://www.linkedin.com/in/taine-rasmussen-a66a86184/
 [instagram]: https://www.instagram.com/tainerasmussen/
