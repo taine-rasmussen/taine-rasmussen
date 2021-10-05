@@ -31,7 +31,7 @@
 <br />
 <br />
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=taine-rasmussen)]
+[Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=taine-rasmussen)
 
 
 
