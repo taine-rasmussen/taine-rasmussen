@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning everything 🤣
 - 👯 I’m looking to collaborate with other developers / creatives
-- 🥅 2021 Goals: Contribute  to Open Source projects
+- 🥅 2021 Goals: Contribute to Open Source projects - 
 
 
 ## Connect with me:
@@ -23,7 +23,7 @@
 <details>
   <summary>:zap: GitHub Stats</summary>
 
-  <img align="left" alt="Taine's GitHub Stats" src='https://github-readme-stats.vercel.app/api?username=taine-rasmussen&show_icons=true&hide=stars'/>
+  <img align="left" alt="Taine's GitHub Stats" src='https://github-readme-stats.vercel.app/api?username=taine-rasmussen&show_icons=true&hide=stars&count_private=true'/>
 
 </details>
 
