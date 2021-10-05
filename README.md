@@ -13,10 +13,12 @@
 [<img align="left" alt="taine-rasmussen | LinkedIn" width="42px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 [<img align="left" alt="taine-rasmussen | Instagram" width="42px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
 
+<br />
+
 
 ### GitHub activity & stats:
 
-<br />
+
 
 <details>
   <summary>:zap: GitHub Stats</summary>
