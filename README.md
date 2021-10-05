@@ -15,6 +15,9 @@
 
 
 ### GitHub activity & stats:
+
+<br />
+
 <details>
   <summary>:zap: GitHub Stats</summary>
 
