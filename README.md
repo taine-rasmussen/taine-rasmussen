@@ -1,10 +1,10 @@
 # Hi there, I'm Taine 👋
 
 
-## I'm a Developer, Photographer and recent graduate of Enspiral Dev Academy!
+## I'm a Developer and recent graduate of Enspiral Dev Academy!
 
 - 🌱 I’m currently learning everything 🤣
-- 👯 I’m looking to collaborate with other developers / creatives
+- 👯 I’m looking to collaborate with other developers
 - 🥅 2021 Goals: Contribute to Open Source projects
 
 
