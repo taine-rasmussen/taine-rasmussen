@@ -3,7 +3,7 @@
 
 ## I'm a Developer and recent graduate of Enspiral Dev Academy!
 
-- 🌱 I’m currently learning everything 🤣
+- 🌱 I’m currently learning Ruby on Rails
 - 👯 I’m looking to collaborate with other developers
 - 🥅 2021 Goals: Contribute to Open Source projects
 
