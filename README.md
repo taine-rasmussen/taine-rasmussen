@@ -1,7 +1,7 @@
 # Hi there, I'm Taine 👋
 
 
-## I'm a Full Stack Developer and recent graduate of Enspiral Dev Academy!
+## Full Stack Developer
 
 - 🌱 I’m currently learning Ruby on Rails
 - 👯 I’m looking to collaborate with other developers
