@@ -31,4 +31,3 @@
 
 
 [linkedin]: https://www.linkedin.com/in/taine-rasmussen-a66a86184/
-[instagram]: https://www.instagram.com/tainerasmussen/
