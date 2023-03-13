@@ -14,13 +14,8 @@
 
 
 
-<details>
-  <summary>:zap: GitHub Stats</summary>
 
-  <img align="left" alt="Taine's GitHub Stats" src='https://github-readme-stats.vercel.app/api?username=taine-rasmussen&show_icons=true&hide=stars&count_private=true'/>
   [![Taine's GitHub stats](https://github-readme-stats.vercel.app/api?taine-rasmussen=taine-rasmussen)](https://github.com/anuraghazra/github-readme-stats)
-
-</details>
 
 
 
