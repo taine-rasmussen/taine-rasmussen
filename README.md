@@ -10,13 +10,7 @@
 <br />
 <br />
 
-## GitHub activity & stats:
-
-
-<details>
-  <summary>:zap: GitHub Stats</summary>
-    [![Taine's GitHub stats](https://github-readme-stats.vercel.app/api?username=taine-rasmussen)](https://github.com/anuraghazra/github-readme-stats)
-</details>
+[![Taine's GitHub stats](https://github-readme-stats.vercel.app/api?username=taine-rasmussen&theme=dark&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
 
 
 
