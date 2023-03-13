@@ -3,11 +3,6 @@
 
 ## Full Stack Developer
 
-- 🌱 I’m currently learning Ruby on Rails
-- 👯 I’m looking to collaborate with other developers
-- 🥅 2021 Goals: Contribute to Open Source projects
-
-
 ## Connect with me:
 
 [<img align="left" alt="taine-rasmussen | LinkedIn" width="42px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
