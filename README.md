@@ -15,7 +15,7 @@
 
 
 
-  [![Taine's GitHub stats](https://github-readme-stats.vercel.app/api?taine-rasmussen=taine-rasmussen)](https://github.com/anuraghazra/github-readme-stats)
+  [![Taine's GitHub stats](https://github-readme-stats.vercel.app/api?username=taine-rasmussen)](https://github.com/anuraghazra/github-readme-stats)
 
 
 
